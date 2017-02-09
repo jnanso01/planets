@@ -1,0 +1,3 @@
+pipe test
+
+can you add and commit in one line using pipe
